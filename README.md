@@ -15,7 +15,7 @@
      - Focos de Incêndio
      - PIB (R$) :heavy_check_mark:
      - Área Plantada ou Colhida (hectares) :heavy_check_mark: 
-     - Valor da Produção Agrícola (R$) :heavy_check_mark:
+     - Valor da Produção Agrícola (R$) 
      - PIB Agrícola Estadual (R$)
      - População :heavy_check_mark:
      - Fluxo de Crédito Rural (R$)
