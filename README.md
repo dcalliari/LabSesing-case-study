@@ -13,7 +13,7 @@
    - *Variáveis Selecionadas*:
      - Desmatamento (km²) :heavy_check_mark:
      - Focos de Incêndio
-     - PIB (R$) :heavy_check_mark:
+     - PIB (R$) (+/-)
      - Área Plantada ou Colhida (hectares) :heavy_check_mark: 
      - Valor da Produção Agrícola (R$) :heavy_check_mark:
      - PIB Agrícola Estadual (R$)
