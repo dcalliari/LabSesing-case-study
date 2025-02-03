@@ -24,7 +24,7 @@
      - Área de Culturas Permanentes (hectares)
      - Área de Culturas Temporárias (hectares)
      - Produção de Milho (R$)
-     - Produção de Soja (R$)
+     - Produção de Soja (R$) :heavy_check_mark:
      - Despesa Orçamentária (R$)
      - Partido Político do Governador
 
