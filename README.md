@@ -11,13 +11,13 @@
      - *Dados de Partidos Políticos*: Utilize dados de governadores e partidos políticos disponíveis no Wikipedia.
 
    - *Variáveis Selecionadas*:
-     - Desmatamento (km²)
+     - Desmatamento (km²) :heavy_check_mark:
      - Focos de Incêndio
-     - PIB (R$)
+     - PIB (R$):heavy_check_mark:
      - Área Plantada ou Colhida (hectares)
      - Valor da Produção Agrícola (R$)
      - PIB Agrícola Estadual (R$)
-     - População
+     - População:heavy_check_mark:
      - Fluxo de Crédito Rural (R$)
      - Extensão de Unidades de Conservação (hectares)
      - Rebanho Bovino (cabeças)
