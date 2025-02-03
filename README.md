@@ -20,7 +20,7 @@
      - População :heavy_check_mark:
      - Fluxo de Crédito Rural (R$)
      - Extensão de Unidades de Conservação (hectares)
-     - Rebanho Bovino (cabeças)
+     - Rebanho Bovino (cabeças) :heavy_check_mark:
      - Área de Culturas Permanentes (hectares)
      - Área de Culturas Temporárias (hectares)
      - Produção de Milho (R$)
