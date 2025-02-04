@@ -14,7 +14,7 @@ deforestation dynamics"
    - *Variáveis Selecionadas*:
      - Desmatamento (km²) :heavy_check_mark:
      - Focos de Incêndio :heavy_check_mark:
-     - PIB (R$) :x:
+     - PIB (R$) :heavy_check_mark:
      - Área Plantada ou Colhida (hectares) :heavy_check_mark: 
      - Valor da Produção Agrícola (R$) :heavy_check_mark:
      - PIB Agrícola Estadual (R$) :heavy_check_mark:
