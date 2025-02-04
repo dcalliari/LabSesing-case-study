@@ -22,7 +22,7 @@ deforestation dynamics"
      - Fluxo de Crédito Rural (R$) :heavy_check_mark:
      - Extensão de Unidades de Conservação (hectares) :heavy_check_mark:
      - Rebanho Bovino (cabeças) :heavy_check_mark:
-     - Área de Culturas Permanentes (hectares)
+     - Área de Culturas Permanentes (hectares) :heavy_check_mark:
      - Área de Culturas Temporárias (hectares) :heavy_check_mark:
      - Produção de Milho (R$) :heavy_check_mark:
      - Produção de Soja (R$) :heavy_check_mark:
