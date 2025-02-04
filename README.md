@@ -13,14 +13,14 @@ deforestation dynamics"
 
    - *Variáveis Selecionadas*:
      - Desmatamento (km²) :heavy_check_mark:
-     - Focos de Incêndio
+     - Focos de Incêndio :heavy_check_mark:
      - PIB (R$) :x:
      - Área Plantada ou Colhida (hectares) :heavy_check_mark: 
      - Valor da Produção Agrícola (R$) :heavy_check_mark:
-     - PIB Agrícola Estadual (R$)
+     - PIB Agrícola Estadual (R$) :heavy_check_mark:
      - População :heavy_check_mark:
-     - Fluxo de Crédito Rural (R$)
-     - Extensão de Unidades de Conservação (hectares)
+     - Fluxo de Crédito Rural (R$) :heavy_check_mark:
+     - Extensão de Unidades de Conservação (hectares) :heavy_check_mark:
      - Rebanho Bovino (cabeças) :heavy_check_mark:
      - Área de Culturas Permanentes (hectares)
      - Área de Culturas Temporárias (hectares) :heavy_check_mark:
