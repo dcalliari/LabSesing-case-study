@@ -26,7 +26,7 @@ deforestation dynamics"
      - Área de Culturas Temporárias (hectares) :heavy_check_mark:
      - Produção de Milho (R$) :heavy_check_mark:
      - Produção de Soja (R$) :heavy_check_mark:
-     - Despesa Orçamentária (R$)
+     - Despesa Orçamentária (R$) :heavy_check_mark:
      - Partido Político do Governador
 
 ### 2. *Pré-processamento de Dados*
