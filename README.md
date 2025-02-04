@@ -27,7 +27,7 @@ deforestation dynamics"
      - Produção de Milho (R$) :heavy_check_mark:
      - Produção de Soja (R$) :heavy_check_mark:
      - Despesa Orçamentária (R$) :heavy_check_mark:
-     - Partido Político do Governador
+     - Partido Político do Governador :heavy_check_mark:
 
 ### 2. *Pré-processamento de Dados*
    - *Transformação de Variáveis Categóricas*:
