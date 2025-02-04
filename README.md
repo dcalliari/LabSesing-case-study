@@ -3,7 +3,7 @@ deforestation dynamics"
 
 ### 1. *Coleta de Dados*
    - *Fontes de Dados*:
-     -  *Dados de Desmatamento*: Utilize dados do PRODES (Programa de Monitoramento da Floresta Amazônica por Satélite) do INPE (Instituto Nacional de Pesquisas Espaciais). Disponível em: [http://www.obt.inpe.br/](http://www.obt.inpe.br/). :heavy_check_mark:
+     -  *Dados de Desmatamento*: Utilize dados do PRODES (Programa de Monitoramento da Floresta Amazônica por Satélite) do INPE (Instituto Nacional de Pesquisas Espaciais). Disponível em: [http://www.obt.inpe.br/](http://www.obt.inpe.br/). 
        
      - *Dados de Focos de Incêndio*: Utilize dados do BDQUEIMADAS do INPE. Disponível em: [http://queimadas.dgi.inpe.br/](http://queimadas.dgi.inpe.br/).
      - *Dados Socioeconômicos*: Utilize dados do IBGE (Instituto Brasileiro de Geografia e Estatística) para variáveis como PIB, produção agrícola, população, etc. Disponível em: [https://www.ibge.gov.br/](https://www.ibge.gov.br/).
