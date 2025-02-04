@@ -1,4 +1,5 @@
-# Predicting-the-pulse-of-the-Amazon-Machine-learning-insights-into-deforestation-dynamics-
+Estudo do laboratório de Sensoriamento Remoto da Universidade da Amazonia (UNAMA) sobre o trabalho "Predicting the pulse of the Amazon: Machine learning insights into
+deforestation dynamics"
 
 ### 1. *Coleta de Dados*
    - *Fontes de Dados*:
